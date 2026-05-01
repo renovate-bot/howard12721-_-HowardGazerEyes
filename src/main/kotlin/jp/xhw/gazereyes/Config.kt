@@ -1,4 +1,4 @@
-package example.traktbot
+package jp.xhw.gazereyes
 
 import kotlin.uuid.Uuid
 
